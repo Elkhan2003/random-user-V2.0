@@ -1,0 +1,44 @@
+::-webkit-scrollbar {
+  width: 10px;
+}
+
+::-webkit-scrollbar-track {
+  background-color: #212529;
+  -webkit-box-shadow: 0px 5px 10px red;
+  box-shadow: 0px 5px 10px red;
+}
+
+::-webkit-scrollbar-thumb {
+  background: -webkit-gradient(linear, left top, left bottom, from(red), to(#002fff));
+  background: linear-gradient(to bottom, red, #002fff);
+  border-radius: 50px;
+  box-shadow: 0px 0px 10px #00ffff, 0px 0px 20px #00ffff, 0px 0px 30px #00ffff;
+}
+
+*,
+*:before,
+*:after {
+  box-sizing: border-box;
+  margin: 0;
+}
+
+body {
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+* {
+  color: white;
+  font-family: "Montserrat";
+}
+
+body {
+  background: url("../img/bg.jpg") no-repeat fixed center/cover;
+}
+
+td, th {
+  padding: 10px;
+  outline: 2px solid black;
+}
+
+/*# sourceMappingURL=style.css.map */
