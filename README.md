@@ -3,4 +3,4 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=5BCDEC&lines=Эта+сборка+для+друзей)]()
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=5BCDEC&lines=Со+сбросами+TypeScript)]()
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=5BCDEC&lines=Со+сбросами+SCSS)]()
